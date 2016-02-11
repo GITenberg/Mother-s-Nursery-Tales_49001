@@ -1,0 +1,23 @@
+_repo: Mother-s-Nursery-Tales_49001
+contributor:
+  illustrator: &id001
+    agent_name: Pyle, Katharine
+    alias: Pyle, Katherine
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '1139'
+    url: http://www.gutenberg.org/2009/agents/1139
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2015-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Mother's Nursery Tales
+url: http://www.gutenberg.org/ebooks/49001
